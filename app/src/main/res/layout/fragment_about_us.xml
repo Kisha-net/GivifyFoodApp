@@ -50,7 +50,7 @@
                      android:layout_marginStart="8dp"
                      android:layout_marginTop="8dp"
                      android:layout_marginEnd="8dp"
-                     android:text="Foodonor community is aimed at providing a platform where compassionate citizens in our country to begin and manage initaitives that solve hunger and food wastage in the country."
+                     android:text="Givify is aimed at providing a platform where compassionate citizens in our country to begin and manage initaitives that solve hunger and food wastage in the country."
                      android:textColor="@color/black"
                      android:textSize="15sp"
                      app:layout_constraintEnd_toEndOf="parent"
